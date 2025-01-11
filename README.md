@@ -28,6 +28,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and computer s
 ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)
+![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat)
 ![Pinecone](https://img.shields.io/badge/-Pinecone-05122A?style=flat&logo=pinecone)
 ![LangGraph](https://img.shields.io/badge/-LangGraph-05122A?style=flat)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
