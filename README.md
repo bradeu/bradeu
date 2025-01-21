@@ -40,7 +40,9 @@ Welcome to my GitHub profile! I'm a passionate software developer and computer s
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)
 
 ## 📈 GitHub Stats
+<!--
 ![Bradley's GitHub stats](https://github-readme-stats.vercel.app/api?username=bradeu&show_icons=true&theme=radical)
+-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bradeu&layout=compact&theme=radical)
 
 ## 📫 Let's Connect
