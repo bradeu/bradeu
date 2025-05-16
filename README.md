@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and computer s
 - 💬 Ask me about machine learning pipelines, NLP models.
 - 📫 How to reach me: bradeu01@gmail.com or connect with me on [LinkedIn](www.linkedin.com/in/besakran)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love exploring about tech startup ideas and how Generative AI will impact new innovations!
+- ⚡ Fun fact: I love exploring food spots around Vancouver!
 
 ## 🛠️ Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
