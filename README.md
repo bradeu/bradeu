@@ -1,6 +1,6 @@
 # Hi, I'm Bradley 👋
 
-📍 **Vancouver** | 🎓 **CS @ UBC** | 🤖 **LLM Infrastructure & Backend Engineering**
+📍 **Vancouver** | 🎓 **CS @ UBC** | 🤖 **AI/ML & Backend Engineering**
 
 Research Assistant at UBC building MCP-powered agentic systems. Previously AI Engineer Co-op (agentic systems, RAG pipelines, async ingestion, Redis/Postgres session caching) and ML Intern at OLX.
 
