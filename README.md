@@ -19,13 +19,6 @@ Research Assistant at UBC building MCP-powered agentic systems. Previously AI En
 - ⚙️ Engineered modular **RAG pipeline** with async PDF ingestion, Celery workers, Redis + Postgres
 - 🧠 Retrained **Bi-LSTM** with semi-supervised DBSCAN labeling and Optuna hyperparameter tuning
 
-## Statistics
- 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bradeu&theme=radical" height="150"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bradeu&theme=radical" height="150"/>
-</p>
-
 ## Connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/besakran)
