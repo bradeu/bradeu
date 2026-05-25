@@ -19,7 +19,7 @@ Research Assistant at UBC building MCP-powered agentic systems. Previously AI En
 - ⚙️ Engineered modular **RAG pipeline** with async PDF ingestion, Celery workers, Redis + Postgres
 - 🧠 Retrained **Bi-LSTM** with semi-supervised DBSCAN labeling and Optuna hyperparameter tuning
 
-## Connect with me!
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/besakran)
 [![Website](https://img.shields.io/badge/-bradleysakran.com-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://bradleysakran.com)
