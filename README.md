@@ -14,7 +14,8 @@ Research Assistant at UBC building MCP-powered agentic systems. Previously AI En
 
 ## Highlights
 
-- 🔐 Created a decentralized secret sharing site [b.env](https://github.com/bradeu) (Go, RabbitMQ, Solidity)
+- 🔑 **(NEW)** Developed [enparse](https://github.com/bradeu/enparse), a decentralized CLI for encrypted secret sharing
+- 🔐 Created a decentralized secret-sharing site [b.env](https://github.com/bradeu/b,env) (Go, RabbitMQ, Solidity)
 - 🔬 Built agentic survey platform with **FastAPI + MCP servers** and dynamic LLM personalization
 - ⚙️ Engineered modular **RAG pipeline** with async PDF ingestion, Celery workers, Redis + Postgres
 - 🧠 Retrained **Bi-LSTM** with semi-supervised DBSCAN labeling and Optuna hyperparameter tuning
